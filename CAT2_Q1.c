@@ -36,4 +36,5 @@ int main() {
     printf("\nNet Pay: $%.2f\n", netPay);
 
     return 0;
+
 }
